@@ -27,7 +27,7 @@ Unlike the WESAD dataset configuration, EmotiBit hardware profile streams signal
 ## Execution
 
 All the files are located in 
-`stress-management-using-active-learning/stress_ws/src/stress_inference_pkg` folder
+`Human-in-the-loop-Active-Learning-/stress_ws/src/stress_inference_pkg` folder
 
 ### 1. Launch the Dataset Simulator 
 
