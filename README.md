@@ -130,8 +130,8 @@ To run this project locally, ensure you have a Python environment set up (virtua
 
 ```bash
 # Clone the repository
-git clone https://git.inf.h-brs.de/dlr_project/stress-management-using-active-learning.git
-cd stress-management-using-active-learning
+git clone https://github.com/prachi0711/Human-in-the-loop-Active-Learning-.git
+cd Human-in-the-loop-Active-Learning-
 
 # Install dependencies
 pip install -r requirements.txt
