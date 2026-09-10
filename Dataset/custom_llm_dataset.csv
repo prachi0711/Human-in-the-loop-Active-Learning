@@ -1,0 +1,234 @@
+Phrase,Category_Type,Ground_Truth_Label
+I feel extremely anxious,Clear_Stress,STRESS
+I'm overwhelmed right now,Clear_Stress,STRESS
+My heart is racing from stress,Clear_Stress,STRESS
+I can't calm down,Clear_Stress,STRESS
+Everything feels too much,Clear_Stress,STRESS
+I'm under immense pressure,Clear_Stress,STRESS
+I'm panicking,Clear_Stress,STRESS
+I feel mentally exhausted,Clear_Stress,STRESS
+I'm really tense,Clear_Stress,STRESS
+I can't stop worrying,Clear_Stress,STRESS
+I'm feeling very stressed,Clear_Stress,STRESS
+My mind won't slow down,Clear_Stress,STRESS
+I'm on edge,Clear_Stress,STRESS
+I'm close to breaking down,Clear_Stress,STRESS
+I'm overwhelmed by everything,Clear_Stress,STRESS
+I feel trapped,Clear_Stress,STRESS
+I'm nervous about everything,Clear_Stress,STRESS
+I'm emotionally drained,Clear_Stress,STRESS
+I'm struggling to cope,Clear_Stress,STRESS
+I'm stressed beyond belief,Clear_Stress,STRESS
+I feel restless,Clear_Stress,STRESS
+I'm terrified,Clear_Stress,STRESS
+I feel constant anxiety,Clear_Stress,STRESS
+I can't relax,Clear_Stress,STRESS
+I'm shaking with anxiety,Clear_Stress,STRESS
+I'm burnt out,Clear_Stress,STRESS
+I feel helpless,Clear_Stress,STRESS
+I'm losing control,Clear_Stress,STRESS
+I feel overwhelmed today,Clear_Stress,STRESS
+My stress is unbearable,Clear_Stress,STRESS
+I feel mentally overloaded,Clear_Stress,STRESS
+I'm full of anxiety,Clear_Stress,STRESS
+I'm worried all the time,Clear_Stress,STRESS
+I'm under too much stress,Clear_Stress,STRESS
+I need help calming down,Clear_Stress,STRESS
+I feel relaxed today,Clear_Calm,CALM
+I'm at peace,Clear_Calm,CALM
+Everything feels under control,Clear_Calm,CALM
+I'm happy today,Clear_Calm,CALM
+I'm feeling refreshed,Clear_Calm,CALM
+I'm comfortable,Clear_Calm,CALM
+I feel balanced,Clear_Calm,CALM
+I'm enjoying my day,Clear_Calm,CALM
+I feel emotionally stable,Clear_Calm,CALM
+I'm content,Clear_Calm,CALM
+I'm calm and focused,Clear_Calm,CALM
+Life feels good,Clear_Calm,CALM
+I'm having a relaxing evening,Clear_Calm,CALM
+Nothing is bothering me,Clear_Calm,CALM
+I'm feeling optimistic,Clear_Calm,CALM
+I'm in a great mood,Clear_Calm,CALM
+I feel lighthearted,Clear_Calm,CALM
+Today has been peaceful,Clear_Calm,CALM
+I slept well and feel good,Clear_Calm,CALM
+I'm confident today,Clear_Calm,CALM
+I'm calm,Clear_Calm,CALM
+I feel safe,Clear_Calm,CALM
+I'm comfortable with everything,Clear_Calm,CALM
+I'm unworried,Clear_Calm,CALM
+I feel centered,Clear_Calm,CALM
+I'm enjoying the moment,Clear_Calm,CALM
+I'm satisfied,Clear_Calm,CALM
+I'm cheerful,Clear_Calm,CALM
+I'm feeling positive,Clear_Calm,CALM
+I'm okay today,Clear_Calm,CALM
+I'm grateful today,Clear_Calm,CALM
+I'm relaxed after work,Clear_Calm,CALM
+I feel fine,Clear_Calm,CALM
+I'm feeling peaceful,Clear_Calm,CALM
+Everything is going smoothly,Clear_Calm,CALM
+I was anxious yesterday,Past_Tense_Trap,UNKNOWN
+I felt stressed earlier,Past_Tense_Trap,UNKNOWN
+Last week was difficult,Past_Tense_Trap,UNKNOWN
+I had a rough morning,Past_Tense_Trap,UNKNOWN
+I panicked before the interview,Past_Tense_Trap,UNKNOWN
+I was overwhelmed last month,Past_Tense_Trap,UNKNOWN
+Yesterday I couldn't relax,Past_Tense_Trap,UNKNOWN
+I used to worry a lot,Past_Tense_Trap,UNKNOWN
+I felt nervous during class,Past_Tense_Trap,UNKNOWN
+I cried yesterday,Past_Tense_Trap,UNKNOWN
+I had a headache yesterday,Past_Tense_Trap,UNKNOWN
+Last night was stressful,Past_Tense_Trap,UNKNOWN
+Earlier today I was upset,Past_Tense_Trap,UNKNOWN
+I was tense before,Past_Tense_Trap,UNKNOWN
+My exam stressed me yesterday,Past_Tense_Trap,UNKNOWN
+I was exhausted yesterday,Past_Tense_Trap,UNKNOWN
+I had anxiety before,Past_Tense_Trap,UNKNOWN
+I worried all weekend,Past_Tense_Trap,UNKNOWN
+I was frustrated yesterday,Past_Tense_Trap,UNKNOWN
+I felt pressure last semester,Past_Tense_Trap,UNKNOWN
+I finished work yesterday,Past_Tense_Trap,UNKNOWN
+I was sick last week,Past_Tense_Trap,UNKNOWN
+I went shopping yesterday,Past_Tense_Trap,UNKNOWN
+I travelled yesterday,Past_Tense_Trap,UNKNOWN
+I completed my assignment,Past_Tense_Trap,UNKNOWN
+My chest hurts,Physical_Trap,UNKNOWN
+I have a fever,Physical_Trap,UNKNOWN
+My arm hurts,Physical_Trap,UNKNOWN
+I have a sore throat,Physical_Trap,UNKNOWN
+I'm coughing,Physical_Trap,UNKNOWN
+I have a migraine,Physical_Trap,UNKNOWN
+My legs hurt,Physical_Trap,UNKNOWN
+I'm feeling weak,Physical_Trap,UNKNOWN
+I have stomach pain,Physical_Trap,UNKNOWN
+I'm sweating a lot,Physical_Trap,UNKNOWN
+I feel lightheaded,Physical_Trap,UNKNOWN
+I'm very sleepy,Physical_Trap,UNKNOWN
+My muscles ache,Physical_Trap,UNKNOWN
+I feel cold,Physical_Trap,UNKNOWN
+I'm dehydrated,Physical_Trap,UNKNOWN
+My neck hurts,Physical_Trap,UNKNOWN
+I'm hungry,Physical_Trap,UNKNOWN
+I'm thirsty,Physical_Trap,UNKNOWN
+I have a toothache,Physical_Trap,UNKNOWN
+I'm sneezing,Physical_Trap,UNKNOWN
+My eyes hurt,Physical_Trap,UNKNOWN
+I'm tired,Physical_Trap,UNKNOWN
+I have body aches,Physical_Trap,UNKNOWN
+I have a runny nose,Physical_Trap,UNKNOWN
+I'm dizzy,Physical_Trap,UNKNOWN
+The traffic is awful,External_Topic_Trap,UNKNOWN
+Work has been busy,External_Topic_Trap,UNKNOWN
+My boss assigned another task,External_Topic_Trap,UNKNOWN
+The exam is tomorrow,External_Topic_Trap,UNKNOWN
+It keeps raining,External_Topic_Trap,UNKNOWN
+The project deadline is close,External_Topic_Trap,UNKNOWN
+The office is noisy,External_Topic_Trap,UNKNOWN
+The meeting was long,External_Topic_Trap,UNKNOWN
+My schedule is packed,External_Topic_Trap,UNKNOWN
+The train was delayed,External_Topic_Trap,UNKNOWN
+I have lots of homework,External_Topic_Trap,UNKNOWN
+The internet is slow,External_Topic_Trap,UNKNOWN
+The lecture was difficult,External_Topic_Trap,UNKNOWN
+The weather is hot,External_Topic_Trap,UNKNOWN
+The queue was long,External_Topic_Trap,UNKNOWN
+My team lost,External_Topic_Trap,UNKNOWN
+The restaurant was crowded,External_Topic_Trap,UNKNOWN
+The movie was long,External_Topic_Trap,UNKNOWN
+My laptop is slow,External_Topic_Trap,UNKNOWN
+The airport was crowded,External_Topic_Trap,UNKNOWN
+I have many emails,External_Topic_Trap,UNKNOWN
+There is construction outside,External_Topic_Trap,UNKNOWN
+The commute is long,External_Topic_Trap,UNKNOWN
+The assignment is difficult,External_Topic_Trap,UNKNOWN
+The gym is crowded,External_Topic_Trap,UNKNOWN
+I'm overwhelmed,Ambiguous_Trap,AMBIGUOUS
+Maybe I'm okay,Ambiguous_Trap,AMBIGUOUS
+I don't know how I feel,Ambiguous_Trap,AMBIGUOUS
+It's complicated,Ambiguous_Trap,AMBIGUOUS
+Not sure,Ambiguous_Trap,AMBIGUOUS
+I guess I'm fine,Ambiguous_Trap,AMBIGUOUS
+Perhaps a little,Ambiguous_Trap,AMBIGUOUS
+I'm shaking,Ambiguous_Trap,AMBIGUOUS
+Something feels off,Ambiguous_Trap,AMBIGUOUS
+It's hard to explain,Ambiguous_Trap,AMBIGUOUS
+I'm uncertain,Ambiguous_Trap,AMBIGUOUS
+Maybe,Ambiguous_Trap,AMBIGUOUS
+Could be,Ambiguous_Trap,AMBIGUOUS
+I can't tell,Ambiguous_Trap,AMBIGUOUS
+Mixed feelings,Ambiguous_Trap,AMBIGUOUS
+I feel different,Ambiguous_Trap,AMBIGUOUS
+Not really,Ambiguous_Trap,AMBIGUOUS
+Possibly,Ambiguous_Trap,AMBIGUOUS
+I'm confused,Ambiguous_Trap,AMBIGUOUS
+I'm speechless,Ambiguous_Trap,AMBIGUOUS
+I don't have words,Ambiguous_Trap,AMBIGUOUS
+I think so,Ambiguous_Trap,AMBIGUOUS
+Kind of,Ambiguous_Trap,AMBIGUOUS
+I'm unsure,Ambiguous_Trap,AMBIGUOUS
+Maybe later,Ambiguous_Trap,AMBIGUOUS
+Hello,Conversational,UNKNOWN
+Good morning,Conversational,UNKNOWN
+Good evening,Conversational,UNKNOWN
+How's it going?,Conversational,UNKNOWN
+Nice to meet you,Conversational,UNKNOWN
+Thanks,Conversational,UNKNOWN
+Thank you,Conversational,UNKNOWN
+See you later,Conversational,UNKNOWN
+What's up?,Conversational,UNKNOWN
+Can you help me?,Conversational,UNKNOWN
+Tell me a joke,Conversational,UNKNOWN
+That's interesting,Conversational,UNKNOWN
+Goodbye,Conversational,UNKNOWN
+Have a nice day,Conversational,UNKNOWN
+Okay,Conversational,UNKNOWN
+Stop monitoring me,System_Command,PAUSE
+Pause monitoring,System_Command,PAUSE
+Stop the session,System_Command,PAUSE
+Disable monitoring,System_Command,PAUSE
+Take a break,System_Command,PAUSE
+Resume monitoring,System_Command,RESUME
+Start monitoring again,System_Command,RESUME
+"Yes, let's do the breathing exercise",System_Command,ACCEPTANCE
+Yes please,System_Command,ACCEPTANCE
+No thanks,System_Command,UNKNOWN
+I accept,System_Command,ACCEPTANCE
+Proceed,System_Command,ACCEPTANCE
+Cancel,System_Command,UNKNOWN
+Resume,System_Command,RESUME
+Okay continue,System_Command,ACCEPTANCE
+Resume the session,System_Command,RESUME
+Continue monitoring,System_Command,RESUME
+Turn monitoring back on,System_Command,RESUME
+Restart monitoring,System_Command,RESUME
+Resume tracking,System_Command,RESUME
+Begin monitoring again,System_Command,RESUME
+You can continue,System_Command,RESUME
+I'm ready to continue,System_Command,RESUME
+Continue the session,System_Command,RESUME
+Resume please,System_Command,RESUME
+Start again,System_Command,RESUME
+Let's continue,System_Command,RESUME
+Keep monitoring,System_Command,RESUME
+No,System_Command,REJECTION
+"No thanks, I'm busy",System_Command,REJECTION
+Not now,System_Command,REJECTION
+Maybe later,System_Command,REJECTION
+Leave me alone,System_Command,REJECTION
+I don't want to answer,System_Command,REJECTION
+I'd rather not,System_Command,REJECTION
+Don't ask me,System_Command,REJECTION
+Skip this question,System_Command,REJECTION
+Stop asking,System_Command,REJECTION
+"No, thank you",System_Command,REJECTION
+Not interested,System_Command,REJECTION
+I'd rather not respond,System_Command,REJECTION
+I don't want to continue,System_Command,REJECTION
+Please don't ask,System_Command,REJECTION
+Ignore that,System_Command,REJECTION
+Nope,System_Command,REJECTION
+Not today,System_Command,REJECTION
+I'd like to skip,System_Command,REJECTION
+Let's not,System_Command,REJECTION
