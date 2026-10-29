@@ -34,7 +34,7 @@ The result is a closed-loop, human-in-the-loop framework for personalized stress
 Watch the system in action, demonstrating real-time physiological monitoring, uncertainty detection, and LLM-guided breathing exercises:
 
 [![Stress Management System Demo 1](https://img.youtube.com/vi/N7pSFLg5EGU/0.jpg)](https://youtu.be/N7pSFLg5EGU?si=osRaXTtTeDiAN1s8) 
-[![Stress Management System Demo 2](https://drive.google.com/file/d/19y5CsSx31jZbiHgQIWXnZeBSAGBuoEtS/view?resourcekey)
+[![Stress Management System Demo 2](https://drive.google.com/file/d/19y5CsSx31jZbiHgQIWXnZeBSAGBuoEtS/view?usp=sharing)
 *(Click the image to watch the video on YouTube)*
 
 ---
