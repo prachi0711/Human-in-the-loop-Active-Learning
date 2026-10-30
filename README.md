@@ -133,8 +133,8 @@ To run this project locally, ensure you have a Python environment set up (virtua
 
 ```bash
 # Clone the repository
-git clone https://github.com/prachi0711/Human-in-the-loop-Active-Learning-.git
-cd Human-in-the-loop-Active-Learning-
+git clone https://github.com/prachi0711/Human-in-the-loop-Active-Learning.git
+cd Human-in-the-loop-Active-Learning
 
 # Install dependencies
 pip install -r requirements.txt
