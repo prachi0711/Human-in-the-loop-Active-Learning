@@ -61,6 +61,6 @@ The table below outlines how the system shifts between operational states based 
 
 The code is located within the main workspace directory:
 
-`~/Human-in-the-loop-Active-Learning-/stress_ws/src/stress_inference_pkg/`
+`~/Human-in-the-loop-Active-Learning/stress_ws/src/stress_inference_pkg/`
 
 `dialogue_manager.py`: Contains the complete core runtime logic for calling the Ollama API, managing isolated user state dictionaries (allowing for multi-turn conversational history), tracking intervention timestamps, enforcing semantic parsing rules, and keeping the LLM synced with live runtime conditions.
